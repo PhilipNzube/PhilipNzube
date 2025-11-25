@@ -1,4 +1,4 @@
--👋 Hi, I’m @PhilipNzube
+👋 Hi, I’m @PhilipNzube
 
 - 👀 Passionate about mobile app development, game development, and web development.
 
