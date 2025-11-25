@@ -1,6 +1,9 @@
-- 👋 Hi, I’m **@PhilipNzube**
-- 👀 Passionate about **game development**, **web development**, and now diving into **Flutter** for mobile apps.
-- 🌱 Currently expanding my skills in **game development**, **web design**, and **Flutter**.
-- 💼 Flutter Developer | Web and Game Development Enthusiast
-- 📫 Reach me at **Onwubaliliphilip@gmail.com**
+-👋 Hi, I’m @PhilipNzube
 
+- 👀 Passionate about mobile app development, game development, and web development.
+
+- 🌱 Currently building cross-platform apps with Flutter and React Native, while also improving my game development and web design skills.
+
+- 💼 Mobile App Developer | Flutter & React Native | Web & Game Development Enthusiast
+
+- 📫 Reach me at Onwubaliliphilip@gmail.com
